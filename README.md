@@ -108,4 +108,4 @@ Cualquier persona que desee contribuir a este proyecto es bienvenida. Las contri
 
 Este proyecto es de código abierto bajo la licencia [MIT](https://opensource.org/licenses/MIT).
 
-Hello Minikube :)
+Estamos en Devops!
